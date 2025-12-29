@@ -1,0 +1,6 @@
+bcrypt 
+cryptography
+pandas 
+reportlab
+matplotlib
+openpyxl
