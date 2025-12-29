@@ -6,8 +6,8 @@ from datetime import datetime
 
 
 # ================= CONFIG ==================
-SENDER_EMAIL = "nikhilabhishek666@gmail.com"            # <--- your gmail
-APP_PASSWORD = "kwtn nhax djdz qgge"            # <--- your app password
+SENDER_EMAIL = "sample email"            # <--- your gmail
+APP_PASSWORD = "sample key"            # <--- your app password
 OTP_FILE = r"C:\Users\nikhi_yi7g\Downloads\Python Course with Notes\project\login\project\otpdata.txt"
 SETTINGS_FILE = r"C:\Users\nikhi_yi7g\Downloads\Python Course with Notes\project\login\project\otp_settings.txt"
 # ============================================
@@ -70,3 +70,4 @@ if __name__ == "__main__":
         print("✔ OTP Verified (Test Successful)")
     else:
         print("❌ OTP Failed")
+
